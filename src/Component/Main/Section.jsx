@@ -12,6 +12,7 @@ const Section = () => {
         <h1 className=" text-2xl font-bold ">Welcome to College of Engineering & Rural Technology (CERT)</h1>
         <p className="mx-[20%] text-lg">Established in 1999, CERT College is a leading institution dedicated to quality education in B.Tech, MBA, and Polytechnic programmes. Under the Chitragupt Social Welfare & Educational Society, we strive to develop skilled professionals ready to excel in today’s dynamic industry.</p>
       </div>
+      <button>hello</button>
       <AboutUs/>
     </div>
   );
